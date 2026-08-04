@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "enabled": true,
-  "version": "2.1.2.2",
+  "version": "2.1.2.3",
   "build_id": "2.1.2.2-e06eaffdc938dbffd9e32a6f",
   "desktop_sha256": "97ac3084448b50b0ffe9d2fb9abfa65da834481548454aa66039dbfc751952f2",
   "core_sha256": "5641e1b6033ae5bf2377cbec87fe18ae77068667a86b2e5a1661738c57613c49",
