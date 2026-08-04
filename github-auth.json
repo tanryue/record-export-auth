@@ -1,8 +1,11 @@
 {
+  "schema": 2,
   "enabled": true,
-  "version": "2.1.2.1",
-  "desktop_sha256": "b2987e2347a8ed502c17f9991ecc12a3fb6e0be21a3b309418f833341e321dd8",
-  "core_sha256": "e59536d0debb65106d55c6f43ff3a6c1150a979d4850c32f027347a5f9c37609",
+  "version": "2.1.2.2",
+  "build_id": "2.1.2.2-e06eaffdc938dbffd9e32a6f",
+  "desktop_sha256": "97ac3084448b50b0ffe9d2fb9abfa65da834481548454aa66039dbfc751952f2",
+  "core_sha256": "5641e1b6033ae5bf2377cbec87fe18ae77068667a86b2e5a1661738c57613c49",
   "message": "认证通过",
-  "cache_hours": 24
+  "cache_hours": 24,
+  "issued_at_utc": "2026-08-04T09:00:00Z"
 }
