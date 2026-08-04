@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "version": "2.1.2.1",
-  "desktop_sha256": "35d58caee4fd82aae516aeb399c9ca94fb93d2953965b9d0ee709953cae62e82",
-  "core_sha256": "73de5f1a02fa37a56d80224cf45af544db9cfc9ce59ba33ab979538671b4834d",
+  "desktop_sha256": "b2987e2347a8ed502c17f9991ecc12a3fb6e0be21a3b309418f833341e321dd8",
+  "core_sha256": "e59536d0debb65106d55c6f43ff3a6c1150a979d4850c32f027347a5f9c37609",
   "message": "认证通过",
   "cache_hours": 24
 }
